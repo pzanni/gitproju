@@ -1,4 +1,4 @@
-Selvitä, miten saat poistettua muutoksen tilasta, jossa olet lisäämässä sitä committiin (näkyy vihreänä tulostuksessa), ja siirrettyä muutoksen otsikon Changes not staged for commit alle? Vinkki: git status auttaa.
+Semkmkmkmlvitä, miten saat poistettua muutoksen tilasta, jossa olet lisäämässä sitä committiin (näkyy vihreänä tulostuksessa), ja siirrettyä muutoksen otsikon Changes not staged for commit alle? Vinkki: git status auttaa.
 Lisää uusia tuotteita ostoslistaan, ja aseta muutokset lisättäväksi seuraavaan committiin (Changes to be commited). Älä kuitenkaan paketoi committia.
 Poista sen jälkeen muutokset seuraavasta commitista.
 Poista sen jälkeenmuutokset Gitin avulla niin, että kun avaat ostoslistan, uusimmat tuotteet puuttuvat.
