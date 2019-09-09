@@ -2,3 +2,6 @@ Semkmkmkmlvitä, miten saat poistettua muutoksen tilasta, jossa olet lisäämäs
 Lisää uusia tuotteita ostoslistaan, ja aseta muutokset lisättäväksi seuraavaan committiin (Changes to be commited). Älä kuitenkaan paketoi committia.
 Poista sen jälkeen muutokset seuraavasta commitista.
 Poista sen jälkeenmuutokset Gitin avulla niin, että kun avaat ostoslistan, uusimmat tuotteet puuttuvat.
+5. sipsu
+6. dippi
+7.limu
