@@ -5,4 +5,4 @@ Poista sen jälkeenmuutokset Gitin avulla niin, että kun avaat ostoslistan, uus
 5. sipsu
 6. dippi
 7.limu
-9. kaurafraiche
+9. kauramaito
